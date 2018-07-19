@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/linLayoutLogin"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/KoloQR">
+    <TextView
+        android:text="@string/zaloguj"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:layout_width="281.3dp"
+        android:layout_height="77.3dp"
+        android:id="@+id/textView1"
+        android:layout_marginTop="35.0dp"
+        android:textSize="30dp"
+        android:textColor="#ff000000"
+        android:layout_marginLeft="10dp"
+        android:typeface="normal"
+        style="@style/Prezentacja" />
+    <TextView
+        android:text="@string/index"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:layout_width="260.0dp"
+        android:layout_height="37.0dp"
+        android:id="@+id/textView2"
+        android:textSize="25dp"
+        android:layout_marginTop="35.4dp"
+        android:textColor="#ff000000"
+        android:layout_marginLeft="30dp" />
+    <EditText
+        android:inputType="numberDecimal"
+        android:layout_width="268.0dp"
+        android:layout_height="wrap_content"
+        android:id="@+id/editText2"
+        android:layout_marginLeft="30dp" />
+    <TextView
+        android:text="@string/pass"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:layout_width="258.7dp"
+        android:layout_height="37dp"
+        android:id="@+id/textView3"
+        android:layout_marginLeft="30dp"
+        android:textSize="25dp"
+        android:textColor="#ff000000"
+        android:layout_marginTop="15.4dp" />
+    <EditText
+        android:inputType="textPassword"
+        android:layout_width="268.0dp"
+        android:layout_height="wrap_content"
+        android:id="@+id/editText1"
+        android:layout_marginLeft="30dp" />
+    <Button
+        android:text="@string/login"
+        android:layout_width="200dp"
+        android:layout_height="71.1dp"
+        android:id="@+id/button1"
+        android:layout_marginTop="46.4dp"
+        android:background="@drawable/button_04A"
+        android:layout_gravity="center_horizontal"
+        android:textSize="25dp" />
+</LinearLayout>

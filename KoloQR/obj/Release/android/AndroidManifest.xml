@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" android:versionCode="1" android:versionName="1.0" package="KoloQR.KoloQR" android:installLocation="internalOnly">
+  <uses-sdk android:minSdkVersion="5" android:targetSdkVersion="19" />
+  <application android:label="KoloQR" android:icon="@drawable/icon2" android:name="mono.android.app.Application">
+    <activity android:icon="@drawable/icon2" android:label="KoloQR" android:noHistory="true" android:screenOrientation="portrait" android:theme="@style/Theme.Splash" android:name="md57a726f6d06d18ee0d5d9008a9ef202b6.MainActivity">
+      <intent-filter>
+        <action android:name="android.intent.action.MAIN" />
+        <category android:name="android.intent.category.LAUNCHER" />
+      </intent-filter>
+    </activity>
+    <activity android:label="Login" android:screenOrientation="portrait" android:theme="@android:style/Theme.Black.NoTitleBar" android:name="md57a726f6d06d18ee0d5d9008a9ef202b6.Login" />
+    <activity android:label="LoginX" android:screenOrientation="portrait" android:theme="@android:style/Theme.Black.NoTitleBar" android:name="md57a726f6d06d18ee0d5d9008a9ef202b6.LoginX" />
+    <activity android:label="MainMenu" android:screenOrientation="portrait" android:theme="@android:style/Theme.Black.NoTitleBar" android:name="md57a726f6d06d18ee0d5d9008a9ef202b6.MainMenu" />
+    <activity android:label="Rating" android:screenOrientation="portrait" android:theme="@android:style/Theme.Black.NoTitleBar" android:name="md57a726f6d06d18ee0d5d9008a9ef202b6.Rating" />
+    <activity android:label="Historia wyników" android:screenOrientation="portrait" android:theme="@android:style/Theme" android:name="md57a726f6d06d18ee0d5d9008a9ef202b6.Subject" />
+    <activity android:label="Historia wyników" android:screenOrientation="portrait" android:theme="@android:style/Theme" android:name="md57a726f6d06d18ee0d5d9008a9ef202b6.History" />
+    <activity android:configChanges="keyboardHidden|orientation|screenLayout" android:label="Scanner" android:name="md5e1d4744ef128cd013cac92521f1a8e76.ZxingActivity" />
+    <provider android:name="mono.MonoRuntimeProvider" android:exported="false" android:initOrder="2147483647" android:authorities="KoloQR.KoloQR.mono.MonoRuntimeProvider.__mono_init__" />
+  </application>
+  <uses-permission android:name="android.permission.INTERNET" />
+  <uses-permission android:name="android.permission.CAMERA" />
+</manifest>

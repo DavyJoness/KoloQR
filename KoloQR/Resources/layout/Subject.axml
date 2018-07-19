@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:p1="http://schemas.android.com/apk/res/android"
+    p1:layout_width="match_parent"
+    p1:layout_height="match_parent"
+    p1:id="@+id/relativeLayout1">
+    <ImageView
+        p1:src="@android:drawable/ic_menu_gallery"
+        p1:layout_width="110.0dp"
+        p1:layout_height="110.0dp"
+        p1:id="@+id/grafikaOcena" />
+    <LinearLayout
+        p1:orientation="vertical"
+        p1:minWidth="25px"
+        p1:minHeight="25px"
+        p1:layout_width="212.0dp"
+        p1:layout_height="110.0dp"
+        p1:layout_toRightOf="@id/grafikaOcena"
+        p1:id="@+id/linearLayout1">
+        <TextView
+            p1:text="Medium Text"
+            p1:textAppearance="?android:attr/textAppearanceMedium"
+            p1:layout_width="match_parent"
+            p1:layout_height="wrap_content"
+            p1:id="@+id/data"
+            p1:textColor="#ff000000"
+            p1:layout_marginLeft="5dp"
+            p1:layout_marginRight="5dp" />
+        <TextView
+            p1:text="Large Text"
+            p1:textAppearance="?android:attr/textAppearanceLarge"
+            p1:layout_width="match_parent"
+            p1:layout_height="wrap_content"
+            p1:id="@+id/przedmiotSprawdzian"
+            p1:textColor="#ff21a0c4"
+            p1:layout_marginTop="5dp"
+            p1:layout_marginLeft="5dp"
+            p1:layout_marginRight="5dp" />
+    </LinearLayout>
+    <LinearLayout
+        p1:orientation="vertical"
+        p1:minWidth="25px"
+        p1:minHeight="25px"
+        p1:layout_width="324.0dp"
+        p1:layout_height="match_parent"
+        p1:layout_below="@id/grafikaOcena"
+        p1:id="@+id/linearLayout2">
+        <TextView
+            p1:text="@string/rating"
+            p1:textAppearance="?android:attr/textAppearanceLarge"
+            p1:layout_width="match_parent"
+            p1:layout_height="wrap_content"
+            p1:id="@+id/textView1"
+            p1:textColor="#ff21a0c4"
+            p1:layout_marginBottom="5dp"
+            p1:layout_marginLeft="5dp"
+            p1:layout_marginRight="5dp" />
+        <TextView
+            p1:text="Medium Text"
+            p1:textAppearance="?android:attr/textAppearanceMedium"
+            p1:layout_width="match_parent"
+            p1:layout_height="wrap_content"
+            p1:id="@+id/przedmiotOcena"
+            p1:textColor="#ff000000"
+            p1:layout_marginLeft="5dp"
+            p1:layout_marginRight="5dp" />
+        <TextView
+            p1:text="@string/warnings"
+            p1:textAppearance="?android:attr/textAppearanceLarge"
+            p1:layout_width="match_parent"
+            p1:layout_height="wrap_content"
+            p1:id="@+id/textView3"
+            p1:textColor="#ff21a0c4"
+            p1:layout_marginLeft="5dp"
+            p1:layout_marginRight="5dp"
+            p1:layout_marginTop="20dp"
+            p1:layout_marginBottom="5dp" />
+        <TextView
+            p1:text="Medium Text"
+            p1:textAppearance="?android:attr/textAppearanceMedium"
+            p1:layout_width="match_parent"
+            p1:layout_height="wrap_content"
+            p1:id="@+id/przedmiotUwagi"
+            p1:textColor="#ff000000"
+            p1:layout_marginLeft="5dp"
+            p1:layout_marginRight="5dp" />
+    </LinearLayout>
+</RelativeLayout>

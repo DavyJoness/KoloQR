@@ -1,0 +1,17 @@
+C:\Users\Master of Puppets\Documents\Projects\KoloQR\KoloQR\bin\Release\KoloQR.dll
+C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\MonoAndroid\v1.0\I18N.West.dll
+C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\MonoAndroid\v4.4\Mono.Android.dll
+C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\MonoAndroid\v1.0\mscorlib.dll
+C:\Users\Master of Puppets\Documents\Projects\KoloQR\KoloQR\bin\Debug\mysql-connector-net-6.8.4-noinstall\MySql.Data.CF.dll
+C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\MonoAndroid\v1.0\System.Core.dll
+C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\MonoAndroid\v1.0\System.Data.dll
+C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\MonoAndroid\v1.0\System.dll
+C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\MonoAndroid\v1.0\System.Windows.dll
+C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\MonoAndroid\v1.0\System.Xml.dll
+C:\Users\Master of Puppets\Documents\Projects\KoloQR\KoloQR\bin\Debug\zxing.net.mobile-1.4.7\lib\android\Xamarin.Android.Support.v4.dll
+C:\Users\Master of Puppets\Documents\Projects\KoloQR\KoloQR\bin\Debug\zxing.net.mobile-1.4.7\lib\android\zxing.monoandroid.dll
+C:\Users\Master of Puppets\Documents\Projects\KoloQR\KoloQR\bin\Debug\zxing.net.mobile-1.4.7\lib\android\ZXing.Net.Mobile.dll
+C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\MonoAndroid\v1.0\I18N.dll
+C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\MonoAndroid\v1.0\Mono.Data.Tds.dll
+C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\MonoAndroid\v1.0\Mono.Security.dll
+C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\MonoAndroid\v1.0\System.Transactions.dll

@@ -1,0 +1,92 @@
+KoloQR.MainActivity, KoloQR;md57a726f6d06d18ee0d5d9008a9ef202b6.MainActivity
+KoloQR.MainActivity, KoloQR, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md57a726f6d06d18ee0d5d9008a9ef202b6.MainActivity
+KoloQR.MainActivity;md57a726f6d06d18ee0d5d9008a9ef202b6.MainActivity
+koloqr.MainActivity;md57a726f6d06d18ee0d5d9008a9ef202b6.MainActivity
+KoloQR.Login, KoloQR;md57a726f6d06d18ee0d5d9008a9ef202b6.Login
+KoloQR.Login, KoloQR, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md57a726f6d06d18ee0d5d9008a9ef202b6.Login
+KoloQR.Login;md57a726f6d06d18ee0d5d9008a9ef202b6.Login
+koloqr.Login;md57a726f6d06d18ee0d5d9008a9ef202b6.Login
+KoloQR.LoginX, KoloQR;md57a726f6d06d18ee0d5d9008a9ef202b6.LoginX
+KoloQR.LoginX, KoloQR, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md57a726f6d06d18ee0d5d9008a9ef202b6.LoginX
+KoloQR.LoginX;md57a726f6d06d18ee0d5d9008a9ef202b6.LoginX
+koloqr.LoginX;md57a726f6d06d18ee0d5d9008a9ef202b6.LoginX
+KoloQR.MainMenu, KoloQR;md57a726f6d06d18ee0d5d9008a9ef202b6.MainMenu
+KoloQR.MainMenu, KoloQR, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md57a726f6d06d18ee0d5d9008a9ef202b6.MainMenu
+KoloQR.MainMenu;md57a726f6d06d18ee0d5d9008a9ef202b6.MainMenu
+koloqr.MainMenu;md57a726f6d06d18ee0d5d9008a9ef202b6.MainMenu
+KoloQR.Rating, KoloQR;md57a726f6d06d18ee0d5d9008a9ef202b6.Rating
+KoloQR.Rating, KoloQR, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md57a726f6d06d18ee0d5d9008a9ef202b6.Rating
+KoloQR.Rating;md57a726f6d06d18ee0d5d9008a9ef202b6.Rating
+koloqr.Rating;md57a726f6d06d18ee0d5d9008a9ef202b6.Rating
+KoloQR.Subject, KoloQR;md57a726f6d06d18ee0d5d9008a9ef202b6.Subject
+KoloQR.Subject, KoloQR, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md57a726f6d06d18ee0d5d9008a9ef202b6.Subject
+KoloQR.Subject;md57a726f6d06d18ee0d5d9008a9ef202b6.Subject
+koloqr.Subject;md57a726f6d06d18ee0d5d9008a9ef202b6.Subject
+KoloQR.History, KoloQR;md57a726f6d06d18ee0d5d9008a9ef202b6.History
+KoloQR.History, KoloQR, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md57a726f6d06d18ee0d5d9008a9ef202b6.History
+KoloQR.History;md57a726f6d06d18ee0d5d9008a9ef202b6.History
+koloqr.History;md57a726f6d06d18ee0d5d9008a9ef202b6.History
+KoloQR.MyListViewAdaptorHistory, KoloQR;md57a726f6d06d18ee0d5d9008a9ef202b6.MyListViewAdaptorHistory
+KoloQR.MyListViewAdaptorHistory, KoloQR, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md57a726f6d06d18ee0d5d9008a9ef202b6.MyListViewAdaptorHistory
+KoloQR.MyListViewAdaptorHistory;md57a726f6d06d18ee0d5d9008a9ef202b6.MyListViewAdaptorHistory
+koloqr.MyListViewAdaptorHistory;md57a726f6d06d18ee0d5d9008a9ef202b6.MyListViewAdaptorHistory
+KoloQR.MyListViewAdaptorSubject, KoloQR;md57a726f6d06d18ee0d5d9008a9ef202b6.MyListViewAdaptorSubject
+KoloQR.MyListViewAdaptorSubject, KoloQR, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md57a726f6d06d18ee0d5d9008a9ef202b6.MyListViewAdaptorSubject
+KoloQR.MyListViewAdaptorSubject;md57a726f6d06d18ee0d5d9008a9ef202b6.MyListViewAdaptorSubject
+koloqr.MyListViewAdaptorSubject;md57a726f6d06d18ee0d5d9008a9ef202b6.MyListViewAdaptorSubject
+Android.Support.V4.Content.Loader/IOnLoadCompleteListenerImplementor, Xamarin.Android.Support.v4;mono.android.support.v4.content.Loader_OnLoadCompleteListenerImplementor
+Android.Support.V4.Content.Loader/IOnLoadCompleteListenerImplementor, Xamarin.Android.Support.v4, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;mono.android.support.v4.content.Loader_OnLoadCompleteListenerImplementor
+Android.Support.V4.Content.Loader.IOnLoadCompleteListenerImplementor;mono.android.support.v4.content.Loader_OnLoadCompleteListenerImplementor
+android.support.v4.content.Loader_IOnLoadCompleteListenerImplementor;mono.android.support.v4.content.Loader_OnLoadCompleteListenerImplementor
+Android.Support.V4.View.ViewPager/IOnPageChangeListenerImplementor, Xamarin.Android.Support.v4;mono.android.support.v4.view.ViewPager_OnPageChangeListenerImplementor
+Android.Support.V4.View.ViewPager/IOnPageChangeListenerImplementor, Xamarin.Android.Support.v4, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;mono.android.support.v4.view.ViewPager_OnPageChangeListenerImplementor
+Android.Support.V4.View.ViewPager.IOnPageChangeListenerImplementor;mono.android.support.v4.view.ViewPager_OnPageChangeListenerImplementor
+android.support.v4.view.ViewPager_IOnPageChangeListenerImplementor;mono.android.support.v4.view.ViewPager_OnPageChangeListenerImplementor
+Android.Support.V4.Widget.DrawerLayout/IDrawerListenerImplementor, Xamarin.Android.Support.v4;mono.android.support.v4.widget.DrawerLayout_DrawerListenerImplementor
+Android.Support.V4.Widget.DrawerLayout/IDrawerListenerImplementor, Xamarin.Android.Support.v4, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;mono.android.support.v4.widget.DrawerLayout_DrawerListenerImplementor
+Android.Support.V4.Widget.DrawerLayout.IDrawerListenerImplementor;mono.android.support.v4.widget.DrawerLayout_DrawerListenerImplementor
+android.support.v4.widget.DrawerLayout_IDrawerListenerImplementor;mono.android.support.v4.widget.DrawerLayout_DrawerListenerImplementor
+Android.Support.V4.Widget.SlidingPaneLayout/IPanelSlideListenerImplementor, Xamarin.Android.Support.v4;mono.android.support.v4.widget.SlidingPaneLayout_PanelSlideListenerImplementor
+Android.Support.V4.Widget.SlidingPaneLayout/IPanelSlideListenerImplementor, Xamarin.Android.Support.v4, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;mono.android.support.v4.widget.SlidingPaneLayout_PanelSlideListenerImplementor
+Android.Support.V4.Widget.SlidingPaneLayout.IPanelSlideListenerImplementor;mono.android.support.v4.widget.SlidingPaneLayout_PanelSlideListenerImplementor
+android.support.v4.widget.SlidingPaneLayout_IPanelSlideListenerImplementor;mono.android.support.v4.widget.SlidingPaneLayout_PanelSlideListenerImplementor
+Android.Support.V4.App.FragmentManager/IOnBackStackChangedListenerImplementor, Xamarin.Android.Support.v4;mono.android.support.v4.app.FragmentManager_OnBackStackChangedListenerImplementor
+Android.Support.V4.App.FragmentManager/IOnBackStackChangedListenerImplementor, Xamarin.Android.Support.v4, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;mono.android.support.v4.app.FragmentManager_OnBackStackChangedListenerImplementor
+Android.Support.V4.App.FragmentManager.IOnBackStackChangedListenerImplementor;mono.android.support.v4.app.FragmentManager_OnBackStackChangedListenerImplementor
+android.support.v4.app.FragmentManager_IOnBackStackChangedListenerImplementor;mono.android.support.v4.app.FragmentManager_OnBackStackChangedListenerImplementor
+Android.Support.V4.View.ActionProvider/ISubUiVisibilityListenerImplementor, Xamarin.Android.Support.v4;mono.android.support.v4.view.ActionProvider_SubUiVisibilityListenerImplementor
+Android.Support.V4.View.ActionProvider/ISubUiVisibilityListenerImplementor, Xamarin.Android.Support.v4, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;mono.android.support.v4.view.ActionProvider_SubUiVisibilityListenerImplementor
+Android.Support.V4.View.ActionProvider.ISubUiVisibilityListenerImplementor;mono.android.support.v4.view.ActionProvider_SubUiVisibilityListenerImplementor
+android.support.v4.view.ActionProvider_ISubUiVisibilityListenerImplementor;mono.android.support.v4.view.ActionProvider_SubUiVisibilityListenerImplementor
+Android.Support.V4.View.ActionProvider/IVisibilityListenerImplementor, Xamarin.Android.Support.v4;mono.android.support.v4.view.ActionProvider_VisibilityListenerImplementor
+Android.Support.V4.View.ActionProvider/IVisibilityListenerImplementor, Xamarin.Android.Support.v4, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;mono.android.support.v4.view.ActionProvider_VisibilityListenerImplementor
+Android.Support.V4.View.ActionProvider.IVisibilityListenerImplementor;mono.android.support.v4.view.ActionProvider_VisibilityListenerImplementor
+android.support.v4.view.ActionProvider_IVisibilityListenerImplementor;mono.android.support.v4.view.ActionProvider_VisibilityListenerImplementor
+Android.Support.V4.View.IViewPropertyAnimatorListenerImplementor, Xamarin.Android.Support.v4;mono.android.support.v4.view.ViewPropertyAnimatorListenerImplementor
+Android.Support.V4.View.IViewPropertyAnimatorListenerImplementor, Xamarin.Android.Support.v4, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;mono.android.support.v4.view.ViewPropertyAnimatorListenerImplementor
+Android.Support.V4.View.IViewPropertyAnimatorListenerImplementor;mono.android.support.v4.view.ViewPropertyAnimatorListenerImplementor
+android.support.v4.view.IViewPropertyAnimatorListenerImplementor;mono.android.support.v4.view.ViewPropertyAnimatorListenerImplementor
+Android.Support.V4.View.MenuItemCompat/IOnActionExpandListenerImplementor, Xamarin.Android.Support.v4;mono.android.support.v4.view.MenuItemCompat_OnActionExpandListenerImplementor
+Android.Support.V4.View.MenuItemCompat/IOnActionExpandListenerImplementor, Xamarin.Android.Support.v4, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;mono.android.support.v4.view.MenuItemCompat_OnActionExpandListenerImplementor
+Android.Support.V4.View.MenuItemCompat.IOnActionExpandListenerImplementor;mono.android.support.v4.view.MenuItemCompat_OnActionExpandListenerImplementor
+android.support.v4.view.MenuItemCompat_IOnActionExpandListenerImplementor;mono.android.support.v4.view.MenuItemCompat_OnActionExpandListenerImplementor
+Android.Support.V4.Widget.SwipeRefreshLayout/IOnRefreshListenerImplementor, Xamarin.Android.Support.v4;mono.android.support.v4.widget.SwipeRefreshLayout_OnRefreshListenerImplementor
+Android.Support.V4.Widget.SwipeRefreshLayout/IOnRefreshListenerImplementor, Xamarin.Android.Support.v4, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;mono.android.support.v4.widget.SwipeRefreshLayout_OnRefreshListenerImplementor
+Android.Support.V4.Widget.SwipeRefreshLayout.IOnRefreshListenerImplementor;mono.android.support.v4.widget.SwipeRefreshLayout_OnRefreshListenerImplementor
+android.support.v4.widget.SwipeRefreshLayout_IOnRefreshListenerImplementor;mono.android.support.v4.widget.SwipeRefreshLayout_OnRefreshListenerImplementor
+ZXing.Mobile.ZxingActivity, ZXing.Net.Mobile;md5e1d4744ef128cd013cac92521f1a8e76.ZxingActivity
+ZXing.Mobile.ZxingActivity, ZXing.Net.Mobile, Version=1.4.7.0, Culture=neutral, PublicKeyToken=null;md5e1d4744ef128cd013cac92521f1a8e76.ZxingActivity
+ZXing.Mobile.ZxingActivity;md5e1d4744ef128cd013cac92521f1a8e76.ZxingActivity
+zxing.mobile.ZxingActivity;md5e1d4744ef128cd013cac92521f1a8e76.ZxingActivity
+ZXing.Mobile.ZxingOverlayView, ZXing.Net.Mobile;md5e1d4744ef128cd013cac92521f1a8e76.ZxingOverlayView
+ZXing.Mobile.ZxingOverlayView, ZXing.Net.Mobile, Version=1.4.7.0, Culture=neutral, PublicKeyToken=null;md5e1d4744ef128cd013cac92521f1a8e76.ZxingOverlayView
+ZXing.Mobile.ZxingOverlayView;md5e1d4744ef128cd013cac92521f1a8e76.ZxingOverlayView
+zxing.mobile.ZxingOverlayView;md5e1d4744ef128cd013cac92521f1a8e76.ZxingOverlayView
+ZXing.Mobile.ZXingScannerFragment, ZXing.Net.Mobile;md5e1d4744ef128cd013cac92521f1a8e76.ZXingScannerFragment
+ZXing.Mobile.ZXingScannerFragment, ZXing.Net.Mobile, Version=1.4.7.0, Culture=neutral, PublicKeyToken=null;md5e1d4744ef128cd013cac92521f1a8e76.ZXingScannerFragment
+ZXing.Mobile.ZXingScannerFragment;md5e1d4744ef128cd013cac92521f1a8e76.ZXingScannerFragment
+zxing.mobile.ZXingScannerFragment;md5e1d4744ef128cd013cac92521f1a8e76.ZXingScannerFragment
+ZXing.Mobile.ZXingSurfaceView, ZXing.Net.Mobile;md5e1d4744ef128cd013cac92521f1a8e76.ZXingSurfaceView
+ZXing.Mobile.ZXingSurfaceView, ZXing.Net.Mobile, Version=1.4.7.0, Culture=neutral, PublicKeyToken=null;md5e1d4744ef128cd013cac92521f1a8e76.ZXingSurfaceView
+ZXing.Mobile.ZXingSurfaceView;md5e1d4744ef128cd013cac92521f1a8e76.ZXingSurfaceView
+zxing.mobile.ZXingSurfaceView;md5e1d4744ef128cd013cac92521f1a8e76.ZXingSurfaceView

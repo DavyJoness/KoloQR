@@ -1,0 +1,5 @@
+C:\Users\Master of Puppets\Documents\Projects\KoloQR\KoloQR\bin\Debug\KoloQR.dll
+C:\Users\Master of Puppets\Documents\Projects\KoloQR\KoloQR\bin\Debug\mysql-connector-net-6.8.4-noinstall\MySql.Data.CF.dll
+C:\Users\Master of Puppets\Documents\Projects\KoloQR\KoloQR\bin\Debug\zxing.net.mobile-1.4.7\lib\android\Xamarin.Android.Support.v4.dll
+C:\Users\Master of Puppets\Documents\Projects\KoloQR\KoloQR\bin\Debug\zxing.net.mobile-1.4.7\lib\android\zxing.monoandroid.dll
+C:\Users\Master of Puppets\Documents\Projects\KoloQR\KoloQR\bin\Debug\zxing.net.mobile-1.4.7\lib\android\ZXing.Net.Mobile.dll

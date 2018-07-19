@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="app_name">KoloQR</string>
+	<string name="zaloguj">Zaloguj się do systemu:</string>
+	<string name="index">Identyfikator:</string>
+	<string name="pass">Hasło:</string>
+	<string name="login">Zaloguj</string>
+	<string name="commit">Potwierdź swoją tożsamość:</string>
+	<string name="hello">Witaj ktoś!</string>
+	<string name="main">Co chcesz zrobić?</string>
+	<string name="subject">Przedmiot:</string>
+	<string name="rating">Ocena</string>
+	<string name="warnings">Uwagi</string>
+	<string name="two">Niedostateczny (2.0)</string>
+	<string name="three">Dostateczny (3.0)</string>
+	<string name="threeP">Dostateczny plus (3.5)</string>
+	<string name="four">Dobry (4.0)</string>
+	<string name="fourP">Dobry plus (4.5)</string>
+	<string name="five">Bardzo dobry (5.0)</string>
+	<string name="defWarn">Brak uwag.</string>
+	<string name="avg">Średnia</string>
+	<string name="choseSub">Wybierz przedmiot:</string>
+</resources>
